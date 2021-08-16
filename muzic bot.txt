@@ -1,0 +1,6 @@
+1. 
+2. npm i discord.js
+3. npm install ffmpeg-static
+4. npm install @discordjs/opus
+5. npm i distube
+6. index.js -be editeled a toknet, meg ha szeretnéd a prefixet is, és a bot.bat -al elindítos. Ha nem működik, írj privát.
